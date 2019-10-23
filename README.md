@@ -1,5 +1,7 @@
 ### OpenCL-OpenGL Interop Examples
 
+#### In order to run this thing with ease I added "runme.sh"
+
 #### Requirements
 
 * CMake (>= 3.0.2)
